@@ -4,6 +4,12 @@ A custom, single-file chat interface for [Mercury 2](https://www.inceptionlabs.a
 
 ![status](https://img.shields.io/badge/status-personal%20project-blueviolet) ![type](https://img.shields.io/badge/type-single%20HTML%20file-informational)
 
+## Live Demo
+
+**Try it directly in your browser:** [https://tanzinabdul.github.io/mercury-text-diffusion-model-custom-cui/](https://tanzinabdul.github.io/mercury-text-diffusion-model-custom-cui/)
+
+No installation required — open the link, add your Inception Labs API key in settings, and start chatting right away.
+
 ## Features
 
 - Real multi-turn conversations (full message history is sent with every request, not one-shot Q&A)
