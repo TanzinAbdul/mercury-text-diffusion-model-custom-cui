@@ -6,7 +6,7 @@ A custom, single-file chat interface for [Mercury 2](https://www.inceptionlabs.a
 
 ## Live Demo
 
-**Try it directly in your browser:** [https://tanzinabdul.github.io/mercury-text-diffusion-model-custom-cui/](https://tanzinabdul.github.io/mercury-text-diffusion-model-custom-cui/)
+**Try it directly in your browser:** [Click here to open](https://tanzinabdul.github.io/mercury-text-diffusion-model-custom-cui/)
 
 No installation required — open the link, add your Inception Labs API key in settings, and start chatting right away.
 
